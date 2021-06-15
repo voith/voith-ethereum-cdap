@@ -1,4 +1,3 @@
-# voith-ethereum-cdap
 This repo contains my personal notes for the Ethereum CDAP cohort-zero program.
 
 ## Content
